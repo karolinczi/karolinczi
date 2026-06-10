@@ -2,7 +2,7 @@
 
 **Designer-turned-biotechnologist.** M.S. in Integrated Design & Media, **NYU Tandon** · **Fulbright Scholar** · alum of the **Laboratory of Living Interfaces** (Hénaff Lab, NYU).
 
-I work at the intersection of **molecular biology, environmental metagenomics, and human-centered design** — turning genomic signals into accessible, real-world tools. My background runs from Fine Arts (Warsaw) to wet-lab DNA work to bioinformatics.
+I work at the intersection of **molecular biology, environmental metagenomics, and human-centered design** turning genomic signals into accessible, real-world tools. My background runs from Fine Arts (Warsaw) to wet-lab DNA work to bioinformatics.
 
 ---
 
