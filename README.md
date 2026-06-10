@@ -1,4 +1,4 @@
-# Hi, I'm Karolina Sulich 👋
+# Hi, I'm Karolina Sulich
 
 **Designer-turned-biotechnologist.** M.S. in Integrated Design & Media, **NYU Tandon** · **Fulbright Scholar** · alum of the **Laboratory of Living Interfaces** (Hénaff Lab, NYU).
 
